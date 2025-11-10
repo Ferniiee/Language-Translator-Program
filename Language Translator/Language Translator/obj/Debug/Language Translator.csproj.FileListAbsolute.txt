@@ -1,0 +1,21 @@
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.AssemblyReference.cache
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.cache
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.CoreCompileInputs.cache
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+C:\Users\nuzzi\source\repos\Language Translator\Language Translator\obj\Debug\Language Translator.pdb
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.AssemblyReference.cache
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\obj\Debug\Language Translator.exe.config
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.cache
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.CoreCompileInputs.cache
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+C:\Users\nuzzi\Desktop\School\CS Projects\Language Translator\Language Translator\obj\Debug\Language Translator.pdb
