@@ -9,12 +9,12 @@
 - Visual Studio
   
 ## Features
-- Language translation
-- Accepts user input to select a language
-- Console-based interface
-- Input validation to handle invalid selections
+- Language translation.
+- Accepts user input to select a language.
+- Console-based interface.
+- Input validation to handle invalid selections.
   
 ## What I Learned
-- Handling and validating user input in C#
-- Debugging logic errors during developement
+- Handling and validating user input in C#.
+- Debugging logic errors during developement.
   
